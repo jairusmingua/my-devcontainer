@@ -150,3 +150,4 @@ else
 fi
 unset __conda_setup
 # # <<< conda initialize <<<
+export DJANGO_SETTINGS_MODULE=tesseract.v2.settings
